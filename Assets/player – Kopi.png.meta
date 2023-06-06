@@ -1,0 +1,1245 @@
+fileFormatVersion: 2
+guid: 7805015386f0b1742804f2543b937ee4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_0"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 437
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bf87508731ace4c9179fc79b2cd133
+      internalID: -1915603258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_1"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 437
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4906524388161439edeeda7429a2a6
+      internalID: 1094158229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_2"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 437
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acd59cd1e8bc2c4cb1b8656de07e53a
+      internalID: -1937550934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_3"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 437
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445c5e03c405ecc40aeeefd40107d33c
+      internalID: -424093688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_4"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 437
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4958eb9daaf01984b90f3bb6802df86f
+      internalID: 1839901665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_5"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 437
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7fd1fc68d5b3c45a349b4433e32bdd
+      internalID: -38101218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_6"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 389
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff48339430e88445826591d5fb98ff2
+      internalID: -1848571420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_7"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 389
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b722a5fa940054498799a0f9db41200
+      internalID: 1862182711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_8"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 389
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df91214ccb4aad54db6a929b6d2cc8f5
+      internalID: -1063078598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_9"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 389
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842ba1806610ca54fa6be05de3fcee15
+      internalID: -740560197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_10"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 389
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f85af388f1c88f43927878e1b7fb3e5
+      internalID: -1704263358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_11"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 389
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c854e6d2f047544b81cdaf4a9c659be
+      internalID: -996571044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_12"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 341
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c494e7ab6478a04fbfd059b89390c4b
+      internalID: 1184540093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_13"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 341
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525a8f74079d59240b91fd863bf45a84
+      internalID: -1569691590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_14"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 341
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d504e327a8711dd43ba5036d91580379
+      internalID: -908813107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_15"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 341
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7acc7d07e68fb1449e636874fcee388
+      internalID: 960566961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_16"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 341
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266271003cf8151478158a47fbea240f
+      internalID: -287292475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_17"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 341
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f332176ee0314ae4b808f4f781ed8858
+      internalID: 465889394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_18"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 293
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8e3cc199d21004eaddd0f21df323f0
+      internalID: 1599835327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_19"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 293
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c985594f461a5414da65c1c84b47dcb6
+      internalID: -716090443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_20"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 293
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5bcb190ae15074c8afe1a311ea7f52
+      internalID: 2083878896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_21"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 293
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857f96e1071845c4a898997a2a1d03d9
+      internalID: -1571782440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_22"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 293
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057e2edd28a85984298d56217ed14eb9
+      internalID: 525032063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_23"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 293
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537254b627e73dc44b69161a77bccdef
+      internalID: -1900084288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_24"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 245
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8302d8437851501489a27d341df0fa55
+      internalID: -1643567842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_25"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 245
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3361c32e4ee33934da863a46b7d95da0
+      internalID: 1251165513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_26"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 245
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1978c3eb52966634496378cda37b4539
+      internalID: 839928230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_27"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 245
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1df9c326cc675d42be6767d7647b725
+      internalID: 1077522871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_28"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 245
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428c9d6f1fdb8554a919d4de7250d96e
+      internalID: -1834796520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_29"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 245
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95e19a8f69813244bdb82ad2892e5fb
+      internalID: 1519705120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_30"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 197
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a6c8a2d378c3a4f85da38676e31861
+      internalID: 854835689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_31"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 197
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3f8f160c69fe24fad9946cc79798a1
+      internalID: 1537217015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_32"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 197
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a70dee6ae55104cb20e1bf1b9d3e7c
+      internalID: 1740673268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_33"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 197
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4f3af7a9df2c549a00f4b9f48808f5
+      internalID: 1818342487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_34"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 197
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0697afad77cc8488fa7304f2bf5143
+      internalID: -668277831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_35"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 197
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4dc1073e1963742b1e2aeb49c23cc4
+      internalID: 1136890227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_36"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 149
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211de2a6a69e4ca44ba2c27dc96974f7
+      internalID: 1868665656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_37"
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 148
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26688c1be69327449a7a09268d502585
+      internalID: 1890780689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_38"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 144
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01db85c612aaf347bb00f1b4703299c
+      internalID: -652136605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_39"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 149
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b03f43acb960f488350a9ff7a18be3
+      internalID: -1011338835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_40"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 101
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78fafe00ee4a7642a171a43e64eaea3
+      internalID: -695598125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_41"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 101
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ab1a1433a20c34e88e04c933960a35
+      internalID: -2147056529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_42"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 99
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5331d89c42dd67b4791c0f518f274b61
+      internalID: 1247959222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_43"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 101
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c462f367ebb144f8edd918e21803dc
+      internalID: -1704163107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_44"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 53
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2881d03b105169e45a5f8919130932c1
+      internalID: -1590919037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_45"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 53
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02b9cd3b28eba446944db373dca1a5f
+      internalID: 826836105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_46"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 53
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851d88e2f51d5794790699d6e0f6c5ba
+      internalID: -715603214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_47"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 53
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be452dc7c804405468db06eaf7907869
+      internalID: 674207858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_48"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 5
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec3b3770943e53469c4df39aa43a1a7
+      internalID: 1353404339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_49"
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 5
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8374f3b3f97fadb40b77c5a494b586a9
+      internalID: -515636378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "player \u2013 Kopi_50"
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 5
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c93e28a78610294eb62faede0595fe5
+      internalID: 1208404407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "player \u2013 Kopi_40": -695598125
+      "player \u2013 Kopi_43": -1704163107
+      "player \u2013 Kopi_25": 1251165513
+      "player \u2013 Kopi_13": -1569691590
+      "player \u2013 Kopi_37": 1890780689
+      "player \u2013 Kopi_2": -1937550934
+      "player \u2013 Kopi_6": -1848571420
+      "player \u2013 Kopi_16": -287292475
+      "player \u2013 Kopi_1": 1094158229
+      "player \u2013 Kopi_22": 525032063
+      "player \u2013 Kopi_48": 1353404339
+      "player \u2013 Kopi_44": -1590919037
+      "player \u2013 Kopi_46": -715603214
+      "player \u2013 Kopi_3": -424093688
+      "player \u2013 Kopi_35": 1136890227
+      "player \u2013 Kopi_11": -996571044
+      "player \u2013 Kopi_5": -38101218
+      "player \u2013 Kopi_14": -908813107
+      "player \u2013 Kopi_20": 2083878896
+      "player \u2013 Kopi_30": 854835689
+      "player \u2013 Kopi_29": 1519705120
+      "player \u2013 Kopi_8": -1063078598
+      "player \u2013 Kopi_12": 1184540093
+      "player \u2013 Kopi_42": 1247959222
+      "player \u2013 Kopi_21": -1571782440
+      "player \u2013 Kopi_24": -1643567842
+      "player \u2013 Kopi_7": 1862182711
+      "player \u2013 Kopi_0": -1915603258
+      "player \u2013 Kopi_10": -1704263358
+      "player \u2013 Kopi_23": -1900084288
+      "player \u2013 Kopi_36": 1868665656
+      "player \u2013 Kopi_18": 1599835327
+      "player \u2013 Kopi_41": -2147056529
+      "player \u2013 Kopi_32": 1740673268
+      "player \u2013 Kopi_34": -668277831
+      "player \u2013 Kopi_50": 1208404407
+      "player \u2013 Kopi_47": 674207858
+      "player \u2013 Kopi_17": 465889394
+      "player \u2013 Kopi_38": -652136605
+      "player \u2013 Kopi_9": -740560197
+      "player \u2013 Kopi_45": 826836105
+      "player \u2013 Kopi_49": -515636378
+      "player \u2013 Kopi_15": 960566961
+      "player \u2013 Kopi_19": -716090443
+      "player \u2013 Kopi_39": -1011338835
+      "player \u2013 Kopi_31": 1537217015
+      "player \u2013 Kopi_26": 839928230
+      "player \u2013 Kopi_4": 1839901665
+      "player \u2013 Kopi_28": -1834796520
+      "player \u2013 Kopi_33": 1818342487
+      "player \u2013 Kopi_27": 1077522871
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
